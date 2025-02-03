@@ -25,7 +25,9 @@ const swai_js = {
 
 ## Ongoing Projects:
 <div align=center>
-	<img alt="GitHub release (latest by date)" src="https://github.com/drytarius/drytarius/blob/main/logo/cs2cfg_colored.png?raw=true">
-	<br>
-	<a href="https://cscfg.net/">CSCFG - Counter Strike 2: Config Maker</a>
+	<a href="https://cscfg.net/">
+		<img src="https://github.com/drytarius/drytarius/blob/main/logo/cs2cfg_colored.png?raw=true">
+		<br>
+		CSCFG - Counter Strike 2: Config Maker
+	</a>
 </div>
