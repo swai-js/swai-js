@@ -1,4 +1,7 @@
-## drytarius/dt123 ⚡
+<div align="center">
+    <p>Test</p>
+    <img src="https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b" />
+</div>
 
 # About Me:
 - Hello, I do stuff... and they do be like stuff.
@@ -29,33 +32,3 @@ swai_js on Discord
 	<br>
 	<a href="https://cscfg.net/">CSCFG - Counter Strike 2: Config Maker</a>
 </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![images](https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b)
-
-🌱 **Still learning...** 🌱
-***KEEP UP THE HOBBY 💪***
-
-<!--
-**drytarius/drytarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
