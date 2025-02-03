@@ -1,3 +1,7 @@
+### *paws at u* H-hello, I am swai_js!! >.< 
+
+[Steam: swai_js](https://steamcommunity.com/id/swai_js/)
+
 # About Me:
 ```javascript
 const swai_js = {
@@ -11,16 +15,6 @@ const swai_js = {
     ]
 }
 ```
-
-### 📫 How to reach me: 
-[Steam](https://steamcommunity.com/id/swai_js) ||
-[Reddit](https://www.reddit.com/user/drytarius) ||
-swai_js on Discord
-
-## Stuff that I enjoy:
-- Prof. Shahmat,
-- JavaScript (not really),
-- Making repositories that only 5 people on the planet will see.
 
 ## Experiences:
 <p align="center">
