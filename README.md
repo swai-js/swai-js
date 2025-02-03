@@ -1,8 +1,16 @@
 # About Me:
-- Hello, I do stuff... and they do be like stuff.
-
-- ❤️ Pronouns: *shah/mat*
-- 🐾 Furry
+```javascript
+const swai_js = {
+    pronouns: "shah" | "mat",
+    description: "meow",
+    projects: [cs2cfg, cs2fm],
+    iwishihad: [
+                    "paws :3",
+                    "a tail :3",
+                    "and big cat ears >w<"
+    ]
+}
+```
 
 ### 📫 How to reach me: 
 [Steam](https://steamcommunity.com/id/swai_js) ||
