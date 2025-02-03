@@ -1,8 +1,3 @@
-<div align="center">
-    <p>Test</p>
-    <img src="https://github.com/drytarius/drytarius/assets/109593967/1ca74758-539e-49e2-bcd8-73de7d59c86b" />
-</div>
-
 # About Me:
 - Hello, I do stuff... and they do be like stuff.
 
