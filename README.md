@@ -17,17 +17,11 @@ swai_js on Discord
 - Making repositories that only 5 people on the planet will see.
 
 ## Experiences:
-### JavaScript,
-- Node.js,
-- Electron.js
-- React-Native *(I want to cry)*,
-
-### Other,
-- PHP,
-- MySQL,
-- C#,
-- C++,
-- Python,
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=php,nodejs,js,jquery,dotnet,cs" />
+  </a>
+</p>
 
 ## Ongoing Projects:
 <div align=center>
