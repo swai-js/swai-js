@@ -1,6 +1,6 @@
-### *paws at u* H-hello, I am swai_js!! >.< 
+## *paws at u* H-hello, I am swai_js!! >.< 
 
-[Steam: swai_js](https://steamcommunity.com/id/swai_js/)
+Steam: [swai_js](https://steamcommunity.com/id/swai_js/)
 
 # About Me:
 ```javascript
