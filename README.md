@@ -19,7 +19,7 @@ const swai_js = {
 ## Experiences:
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=php,nodejs,js,jquery,dotnet,cs" />
+    <img src="https://skillicons.dev/icons?i=php,nodejs,js,jquery,py,dotnet,cs" />
   </a>
 </p>
 
